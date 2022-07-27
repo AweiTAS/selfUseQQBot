@@ -1,0 +1,2 @@
+# selfUseQQBot
+一个基于mirai的简易QQ机器人，可以随机发色图和用sauseNAO搜色图，只在IDE上简单跑过，号已经被封力
